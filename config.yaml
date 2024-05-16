@@ -1,0 +1,77 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Fernando Ruiz Gimenez
+theme: ["PaperMod"]
+
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 30
+
+params:
+  # theme
+  showToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+
+  # for enchanced SEO
+
+  # Home Page
+  profileMode:
+    enabled: true
+    title: "Unity Game Developer"
+    subtitle: Unity Game Developer and Game Programmer
+    imageUrl: "home/me.jpg"
+    imageWidth: 220
+    imageHeight: 220
+
+
+  # List View
+  hideDescriptionInList: false
+
+  # cover image for posts
+  cover:
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  socialIcons:
+    - name: "email"
+      url: "mailto:fer.ruizgimenez@gmail.com"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/fernandoruizgimenez/"
+    - name: "github"
+      url: "https://github.com/FerRuizGimenez"
+    - name: "cv"
+      url: "https://drive.google.com/file/d/1_px-a0gR2Lint_-Qss9AnQOHyyH6QE0F/view?usp=drive_link"
+
+  # text search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MD
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

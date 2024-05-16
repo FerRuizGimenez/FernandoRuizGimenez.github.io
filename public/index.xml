@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fernando Ruiz Gimenez</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Fernando Ruiz Gimenez</description>
+    <generator>Hugo -- 0.125.3</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Snake 2D (Unity C#)</title>
+      <link>https://example.org/projects/snake2d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/snake2d/</guid>
+      <description>Classic 2D Arcade Game made with Unity</description>
+    </item>
+    <item>
+      <title>2D Prototype - Catch The Fish (Unity C#)</title>
+      <link>https://example.org/projects/2d-prototype-catchthefish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/2d-prototype-catchthefish/</guid>
+      <description>Simple 2D prototype where the player must move from left to right and try to catch the falling fish.</description>
+    </item>
+  </channel>
+</rss>
