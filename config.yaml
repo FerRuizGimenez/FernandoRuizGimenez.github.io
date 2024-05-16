@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: "https://fernandoruizgimenez.netlify.app"
 languageCode: en-us
 title: Fernando Ruiz Gimenez
 theme: ["PaperMod"]
