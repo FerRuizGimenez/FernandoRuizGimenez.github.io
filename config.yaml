@@ -29,7 +29,7 @@ params:
   profileMode:
     enabled: true
     title: "Unity Game Developer"
-    subtitle: Unity Game Developer and Game Programmer
+    subtitle: Unity Game Developer
     imageUrl: "home/me.jpg"
     imageWidth: 220
     imageHeight: 220
