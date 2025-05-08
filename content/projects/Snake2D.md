@@ -4,7 +4,7 @@ description: "Classic 2D Arcade Game made with Unity"
 
 draft: false
 
-weight: 201
+weight: 202
 cover:
     image: "/projects/Snake2D/CoverTest.gif"
 ---

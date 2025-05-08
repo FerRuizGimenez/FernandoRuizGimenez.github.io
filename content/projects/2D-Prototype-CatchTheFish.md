@@ -4,7 +4,7 @@ description: "Simple 2D prototype where the player must move from left to right 
 
 draft: false
 
-weight: 202
+weight: 203
 cover:
     image: "projects/Prototype2D-CatchTheFish/CatchFishCover.gif"
 --- 
