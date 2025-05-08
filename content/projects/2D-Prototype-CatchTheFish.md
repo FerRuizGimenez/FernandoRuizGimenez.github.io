@@ -8,7 +8,7 @@ weight: 203
 cover:
     image: "projects/Prototype2D-CatchTheFish/CatchFishCover.gif"
 --- 
-### 🔗 [Play game](https://ferruizgimenez.github.io/CatchTheFish/)
+### 🔗 [Play game](https://ferruizgimenez.github.io/CatchTheFish-Build/)
 
 ## Description
 Simple 2D prototype where the player must move from left to right and try to catch the falling fish.
