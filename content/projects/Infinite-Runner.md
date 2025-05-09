@@ -13,7 +13,27 @@ cover:
 The prototype revolves around a character who runs with the goal of collecting bottles to unlock different cosmetics to use.
 The game includes a store where the player can spend the collected bottles and acquire each cosmetic to use in a new run.
 
+ ## Technologies used:
+>•	Universal Render Pipeline
+<br>
+•	Mechanim Animator
+<br>
+•	ShaderGraph
+<br>
+•	Pooling
+<br>
+•	The new Input System
+<br>
+•	State Machine
+<br>
+•	CineMachine
+<br>
+•	Serialized Save State
+
+
 ## Resources
 
 - [Github Repository](https://github.com/FerRuizGimenez/Snow_InfiniteRunner)
+
+
 
