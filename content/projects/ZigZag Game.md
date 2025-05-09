@@ -1,6 +1,6 @@
 ---
-title: "3D Prototype - Zig Zag Racing Car Game (Unity C#)"
-description: "3D prototype where the player must guide the car so that it doesn't fall into the void and collect points"
+title: "3D Prototype - ZigZag Car Racing Game (Unity C#)"
+description: "3D prototype where the player must guide the car so that it doesn't fall into the void and collect points."
 
 draft: false
 

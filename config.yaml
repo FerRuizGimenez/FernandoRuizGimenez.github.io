@@ -25,11 +25,11 @@ params:
 
   # for enchanced SEO
 
-  # Home Page
+  # Home Pages
   profileMode:
     enabled: true
-    title: "Unity Game Developer"
-    subtitle: Unity Game Developer
+    title: "Unity Developer | Gameplay Programmer | Certified Unity User Programmer"
+    subtitle: I’m passionate about creating immersive and meaningful player experiences through code, and always eager to learn and grow in the industry.
     imageUrl: "home/me.jpg"
     imageWidth: 220
     imageHeight: 220
@@ -51,7 +51,7 @@ params:
     - name: "github"
       url: "https://github.com/FerRuizGimenez"
     - name: "cv"
-      url: "https://drive.google.com/file/d/1_px-a0gR2Lint_-Qss9AnQOHyyH6QE0F/view?usp=drive_link"
+      url: "https://drive.google.com/file/d/1Ivcm-ffH9lT96TsfB_vxpEWIKiPxMDEn/view?usp=drive_link"
 
   # text search
   fuseOpts:
