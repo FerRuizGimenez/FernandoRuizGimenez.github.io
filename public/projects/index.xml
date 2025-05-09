@@ -15,6 +15,13 @@
       <description>Simple 3D prototype where the player must move and avoid obstacles to collect bottles.</description>
     </item>
     <item>
+      <title>3D Prototype - Zig Zag Racing Car Game (Unity C#)</title>
+      <link>http://localhost:1313/projects/zigzag-game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/zigzag-game/</guid>
+      <description>3D prototype where the player must guide the car so that it doesn&amp;#39;t fall into the void and collect points</description>
+    </item>
+    <item>
       <title>Snake 2D (Unity C#)</title>
       <link>http://localhost:1313/projects/snake2d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

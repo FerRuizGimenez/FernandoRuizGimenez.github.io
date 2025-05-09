@@ -4,7 +4,7 @@ description: "Simple 3D prototype where the player must move and avoid obstacles
 
 draft: false
 
-weight: 201
+weight: 200
 cover:
     image: "projects/InfiniteRunner/Gameplay.gif"
 --- 
