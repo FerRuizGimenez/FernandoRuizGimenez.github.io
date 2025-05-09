@@ -13,6 +13,8 @@ cover:
 ## Description
 
 In this prototype you control the character by clicking and moving it in a zigzag pattern to prevent it from falling into the void and to accumulate as many points as possible.
+<br>
+>	<strong>Target Platform : Windows, WebGL</strong>
 
 ## Resources
 

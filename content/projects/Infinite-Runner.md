@@ -12,6 +12,9 @@ cover:
 ## Description
 The prototype revolves around a character who runs with the goal of collecting bottles to unlock different cosmetics to use.
 The game includes a store where the player can spend the collected bottles and acquire each cosmetic to use in a new run.
+<br>
+>	<strong>Target Platform : Mobile</strong>
+
 
  ## Technologies used:
 >•	Universal Render Pipeline

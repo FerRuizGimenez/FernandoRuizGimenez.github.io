@@ -12,6 +12,8 @@ cover:
 
 ## Description
 Simple 2D prototype where the player must move from left to right and try to catch the falling fish.
+<br>
+>	<strong>Target Platform : Windows, WebGL</strong>
 ## Resources
 
 - [Github Repository](https://github.com/FerRuizGimenez/2D-Prototype---CatchTheFish)
